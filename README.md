@@ -1,4 +1,4 @@
-# django-playground
+# Django Playground
 
 Making a Stunt Dummy Head Out of Cardboard
 
@@ -10,5 +10,5 @@ This is a personal playground space just to test things out with
 - Django (2.2)
 - Django REST framework (3.12)
 - Postgres
-- Nginx SSL Proxy (not there yet; docker-compose.yml needs work)
+- Nginx SSL Proxy
 - Visual Studio Code Remote - Containers
