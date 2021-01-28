@@ -41,6 +41,8 @@ INSTALLED_APPS = [
     # third party
     "drf_yasg",
     "rest_framework",
+    # mine
+    "playground.articles",
 ]
 
 MIDDLEWARE = [
